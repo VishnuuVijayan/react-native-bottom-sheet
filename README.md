@@ -1,7 +1,5 @@
 # React Native Bottom Sheet
 
-[![Moove It](https://circleci.com/gh/moove-it/react-native-template.svg?style=svg)](https://app.circleci.com/pipelines/github/moove-it/react-native-template?branch=master)
-
 This project uses React Native Reanimated 2 and React Native Gesture Handler to create a Draggable Bottomsheet.
 
 ## Prerequisites
